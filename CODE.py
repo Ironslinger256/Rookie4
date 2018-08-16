@@ -10,6 +10,8 @@ if co==co:
 import os
 import time
 os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("Before we start, we'll need some details ")
 oco=input("Press Enter To Continue")
 if oco==oco:
@@ -41,10 +43,38 @@ if gender==("Female"):
   pronoun=("her")
   pom=("woman")
 
-print("Enter your name, adventurer:")
+#NAME#
+print("Enter your name:")
 name=input("INPUT>>")
 if name==name:
-  print("Ah, so your name is "+name)
+  print("Ok")
+
+#AGE#
+print("Type Any Number Or Letter You Want If You Do Not Want To Reveal Your Age")
+print("Enter your Age:")
+age=input("INPUT>>")
+if age==age:
+  print("Ok")
+
+#Checks Info#
+os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
+print("Please Check That The Information Below Is What You Want")
+print("Name:"+name)
+time.sleep(0.5)
+print("You Are A "+gender)
+time.sleep(0.5)
+print("Age: "+age)
+time.sleep(1)
+      
+      
+      
+      
+#STARTS#
+os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("Press Enter to Start")
 start=input("INPUT>>")
 if start==start:
@@ -59,6 +89,8 @@ if start==start:
 oc=input("Press Enter To Continue")
 if oc==oc:
     os.system('cls||clear')
+    print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+    print("------------------------------------------------------------------------------------------")
     print("There was life on Mars,but then, something happened...")
     time.sleep(1)
     print("What ever happened, it made Mars inhabitable.")
@@ -66,7 +98,7 @@ if oc==oc:
     print("At that time, Earth didnt have any life forms.")
     print("Thus,the inhabitants of Mars came and 'pollinated' Earth,giving it life.")
     time.sleep(1)
-    print("They eventually evolved into Humans,while the inhabitants of Mars hide away somewhere on Earth")
+    print("They eventually evolved into Humans,while the inhabitants of Mars hid away somewhere on Earth")
     
 
 
