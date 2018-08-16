@@ -1,6 +1,7 @@
 #PYTHON3#
 #Gender
-
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("PLEASE ONLY CHOOSE/TYPE THE OPTIONS THAT ARE DISPLAYED, IF NOT U MAY RUN INTO PROBLEMS IF U DO RESTART THE APPLICATION")
 print("NOTE THIS HAS BEEN ONLY TESTED ON WINDOWS")
 print("USE PYTHON 3 and above")
@@ -16,7 +17,10 @@ print("Before we start, we'll need some details ")
 oco=input("Press Enter To Continue")
 if oco==oco:
     oco=1
+
 os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("What's your gender? Male or Female?[M/F]")
 gender=input("INPUT>>")
 
@@ -44,12 +48,19 @@ if gender==("Female"):
   pom=("woman")
 
 #NAME#
+os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("Enter your name:")
 name=input("INPUT>>")
 if name==name:
   print("Ok")
 
 #AGE#
+
+os.system('cls||clear')
+print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+print("------------------------------------------------------------------------------------------")
 print("Type Any Number Or Letter You Want If You Do Not Want To Reveal Your Age")
 print("Enter your Age:")
 age=input("INPUT>>")
@@ -66,7 +77,7 @@ time.sleep(0.5)
 print("You Are A "+gender)
 time.sleep(0.5)
 print("Age: "+age)
-time.sleep(1)
+time.sleep(10)
       
       
       
@@ -78,6 +89,10 @@ print("-------------------------------------------------------------------------
 print("Press Enter to Start")
 start=input("INPUT>>")
 if start==start:
+    
+      os.system('cls||clear')
+      print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
+      print("------------------------------------------------------------------------------------------")
       print("Along time ago...")
       time.sleep(1)
       print("In a galaxy far far away...")
