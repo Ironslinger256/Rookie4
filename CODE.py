@@ -35,6 +35,8 @@ if gender==("M"):
 if gender==("F"):
   gender=("Female")
   print("Okay")
+else:
+    print("TEST")
 
   
 
