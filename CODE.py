@@ -61,7 +61,7 @@ if name==name:
 os.system('cls||clear')
 print("Note: Please Submit A Report To https://bit.ly/2w7v86R For Any Bugs Or Issues")
 print("------------------------------------------------------------------------------------------")
-print("Type Any Number Or Letter You Want If You Do Not Want To Reveal Your Age")
+
 print("Enter your Age:")
 age=input("INPUT>>")
 if age==age:
@@ -110,7 +110,7 @@ if oc==oc:
     time.sleep(1)
     print("What ever happened, it made Mars inhabitable.")
     time.sleep(1)
-    print("At that time, Earth didnt have any life forms.")
+    print("At that time, Earth didn't have any life forms.")
     print("Thus,the inhabitants of Mars came and 'pollinated' Earth,giving it life.")
     time.sleep(1)
     print("They eventually evolved into Humans,while the inhabitants of Mars hid away somewhere on Earth")
